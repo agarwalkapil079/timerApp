@@ -18,7 +18,7 @@ History tracking and exporting timer history as a JSON file
 
 1️⃣ Clone the Repository
 
-git clone https://gitlab.com/vegullaarun/timer.git
+git clone https://github.com/agarwalkapil079/timerApp.git
 cd timer
 
 2️⃣ Install Dependencies
